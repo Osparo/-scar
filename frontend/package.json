@@ -46,6 +46,6 @@
     "postinstall": "bower install"
   },
   "dependencies": {
-    "d3": "^4.13.0"
+    "d3": "^7.6.1"
   }
 }
